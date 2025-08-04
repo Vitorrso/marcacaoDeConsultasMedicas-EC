@@ -85,4 +85,4 @@ const Container = styled.View`
   margin-bottom: 15px;
 `;
 
-export default DoctorList;
+export default DoctorList; 
